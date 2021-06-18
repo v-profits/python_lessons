@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a0783fa-d17f-47af-b899-b13becc1cd54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.6.py" afterDir="false" />
-    </list>
+    <list default="true" id="4a0783fa-d17f-47af-b899-b13becc1cd54" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624003178032</updated>
       <workItem from="1624003179693" duration="208000" />
-      <workItem from="1624003506503" duration="1099000" />
+      <workItem from="1624003506503" duration="1505000" />
     </task>
     <task id="LOCAL-00001" summary="урок 1.4 - выполнен">
       <created>1624003965121</created>
@@ -221,7 +219,35 @@
       <option name="project" value="LOCAL" />
       <updated>1624004516396</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="урок 1.6">
+      <created>1624004673535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624004673535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="урок 1.7">
+      <created>1624004827158</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624004827158</updated>
+    </task>
+    <task id="LOCAL-00008" summary="урок 1.8">
+      <created>1624004897313</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624004897313</updated>
+    </task>
+    <task id="LOCAL-00009" summary="урок 1.9 - операции со отроками">
+      <created>1624005008770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624005008770</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +268,11 @@
     <MESSAGE value="урок 1.4 - выполнен" />
     <MESSAGE value="урок 1.4" />
     <MESSAGE value="урок 1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="урок 1.5" />
+    <MESSAGE value="урок 1.6" />
+    <MESSAGE value="урок 1.7" />
+    <MESSAGE value="урок 1.8" />
+    <MESSAGE value="урок 1.9 - операции со отроками" />
+    <option name="LAST_COMMIT_MESSAGE" value="урок 1.9 - операции со отроками" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,7 +286,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_lessons$1_6.coverage" NAME="1.6 Coverage Results" MODIFIED="1624004647069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_lessons$1_8.coverage" NAME="1.8 Coverage Results" MODIFIED="1624004880236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_lessons$1_5.coverage" NAME="1.5 Coverage Results" MODIFIED="1624004346594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_lessons$1_4.coverage" NAME="1.4 Coverage Results" MODIFIED="1624003873831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_lessons$1_7.coverage" NAME="1.7 Coverage Results" MODIFIED="1624004766321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
